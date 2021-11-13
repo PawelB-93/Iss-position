@@ -1,4 +1,4 @@
-package com.example.IssPositionapp.repository.model;
+package com.example.IssPositionapp.issPosition.iss.repository.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

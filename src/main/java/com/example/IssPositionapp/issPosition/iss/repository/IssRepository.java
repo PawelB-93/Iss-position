@@ -1,6 +1,6 @@
-package com.example.IssPositionapp.repository;
+package com.example.IssPositionapp.issPosition.iss.repository;
 
-import com.example.IssPositionapp.repository.model.Iss;
+import com.example.IssPositionapp.issPosition.iss.repository.model.Iss;
 import org.springframework.stereotype.Repository;
 import org.springframework.web.client.RestTemplate;
 
